@@ -1,3 +1,6 @@
+#Esse desafio é utilizando dos conceitos básicos de python, é um sistema de caixa eletrônico, aqueles que costumamos encontrar espalhados pela cidade! 
+#Contando apenas com um único usuário, e com quatro opções de escolha, sendo o diferencial a capacidade de armazenar dentro de uma variável e mostrar o que foi armazenado.
+#Testem e qualquer dúvida podem entrar em contato comigo via linkedin!
 menu = """
 
 [d] Depositar

@@ -12,7 +12,8 @@ Sou uma pessoa fascinada por processos e pela capacidade dos dados de fornecer i
 Neste repositório, você encontrará uma variedade de projetos e recursos relacionados a processos, análise de dados e Python. Desde scripts simples até projetos mais complexos, meu objetivo é compartilhar conhecimentos e experiências que possam ajudar você a aprimorar suas habilidades e explorar novas possibilidades. 🛠️🔍
 
 ## Desafios 🔥
-- São os códigos que compartilho com a comunidade que surgiram de aulas ou de necessidades do dia-a-dia, mostrando que com python tudo é possível: 
+- São os códigos que compartilho com a comunidade que surgiram de aulas ou de necessidades do dia-a-dia, mostrando que com python tudo é possível:
+  
 O documento desafio_4.py, faz parte de um treinamento pela DIO na criação de um simples sistema de caixa eletrônico;
 O documento CustoKm.py, foi uma necessidade que nasceu no dia-a-dia corrido de saber qual era o custo do meu veículo por KM;
 

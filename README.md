@@ -16,5 +16,6 @@ São os códigos que compartilho com a comunidade que surgiram de aulas ou de ne
   
 - O documento desafio_4.py, faz parte de um treinamento pela DIO na criação de um simples sistema de caixa eletrônico.
 - O documento CustoKm.py, foi uma necessidade que nasceu no dia-a-dia corrido de saber qual era o custo do meu veículo por KM.
+- Desafio POO, é um treinamento de orientação a objeto em Python
 
 
